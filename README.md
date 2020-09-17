@@ -1,1 +1,1 @@
-### https://Lina261.github.io/rsschool-cv/cv
+### https://lina261.github.io/rsschool-cv/
