@@ -35,7 +35,7 @@ img{
 }
 .info{
     font-size: 19px;
-    width: 1300px;
+    width: 90%;
     padding: 50px;
     padding-top: 0;
     text-align: justify;
@@ -43,4 +43,5 @@ img{
 section{
     background-color: white;
     border-radius: 10px;
+    width: 90%;
 }
