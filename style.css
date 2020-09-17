@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(223, 194, 98);
+}
+.cv{
+    color:#faeb6a;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+html{
+     font-family: 'Poppins', sans-serif;;
+}
+img{
+    height: 200px;
+    width: 200px;
+   margin-left: 50px;
+    border-radius: 10px;
+}
+.alinka{
+    display:flex;
+}
+
+.p1{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    margin-bottom: 0;
+}
+.p2, .p3{
+ font-style: oblique;
+ font-size: 20px;
+}
+
+.contact{
+    padding-left: 50px;
+}
+.info{
+    font-size: 19px;
+    width: 1300px;
+    padding: 50px;
+    padding-top: 0;
+    text-align: justify;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+}
